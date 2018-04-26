@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\53daf8438ebda3d7f9a5eff5ae3baeeb2b1e46fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_fcd0f2d0faa027e95aa5a52ead9c0983e224fbd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\41724028fef6055f801f65c109ff42c4ed68005a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_cff03f0b261ebaeccd7c1f001afe15442f7a5791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\b9d672eedb44d6beaef8e7c983e53d47e0966c66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_6f025f687973e95709062ed0efea8c11872ac2b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\9d64b373233eb80cd3e19e16e35414ce9e1ea072\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_a5ef33054c70f6f617bf896a3827ce5284dde5eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\095a52a0b95e16f3bd2d41bce66c98cfff8efe6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_68d1b70371488a021ed3c9125b0b62ec16e653d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\096f9c3b2ba0684f0593efac58f294459c8888da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_d35e9752b9da1eafa045bfb1134c31be8ffa5072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1edb48c3b979b28e4d38bacebf35d1054b290dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\38add17adbec8376b93fd3e2fc1ac140b8d0cfee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_88d682d047e28abaf879b981afd432155d338f02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\c7b7bff8ad69aafa8d5b1efc7b621fd452e4a208\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_0b6fff947c84dcfbd23598d31d4a9f61870db256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\86f5e05e2e41b0dbf1e58c831448d60371c2ee0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_f3bc151624c809908cecdb303c021edaf3a7d490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\b3ed1fb87dd8646feb28c44990908ab5fb884019\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_559ec1d2306b409caa20deb77a832129b331831c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\8b69e3b0342b2460864d94784a10bb9551cf2be6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_851aa7248732590d10aec767a1f61125469ebd9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\cbbffcff8286f5e06fdc4933bfa0ad4584362a03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_729a9fb50895d8768dbcf16b4c04d783038a9824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\common-1.0.0_9d8cd36d04a7fab64296d8a1562bb1222d988688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\22292680b66dddfbdd51c9957bc38ba4c07df0b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_99a70e3ddebfe1e7a24098067f071ea09cfe5c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_3cf476cda053923778db78d50dc51c6765c4d931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\0e70f2028bc91d053db02afb205cfd7b4e631c6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_3b574f038dcbad0469ac3a233e9165a2d10512b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\8d46b13df86479b7bd9b43ea3d40df87ad6ba24f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_e58a9779ec52445e76c37d81829d9378d0767df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\b620d1a67a8bf14d5fa0ed29f27f6383c118f9bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_0a81efed27f03c6a1247cd15243f1625ae270640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\726ffbc36a2e54667516a00060c20c129cdf5ccb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_36062d8e0e962723fa76b50c6c23764c7c66a111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\common-1.0.0_c56e64e0e908bdc9dfa7e6de04d7120156458a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\7a2d4b08be2fb5c1396852be7be7fc5fbaa27b0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_86ece2013516c5020862b7b09ca7249b67233b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\f7e0e77d2eeeaea94665ee41df42d0a6ac8e7ac6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_4348da6c85e2a436f96f3003e4300bfc19e20018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\timmy\.android\build-cache\55b2ad403d1be684fe81ebcfce05aaebc0b7821d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\Dropbox\android_apps\androidstudiodellssd\ScheduleSound6\app\build\intermediates\pre-dexed\debug\classes_20e35e115e4ca8ac8f04ccadb2ae4dc97f63df1d.jar" />
+    </item>
+
+</items>
